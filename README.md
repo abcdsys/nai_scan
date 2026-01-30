@@ -6,33 +6,10 @@ A python-based high-performance multi-thread 京东(JD.Com, Inc) shop activity s
 **点点star，感谢！
 Give some stars, thank you!**  
 ## 中文  
-### 前言  
-你好，我是萌大奶（https://t.me/doubi_c ）很高兴认识你。  
-我有一个愿望，就是人人有扫把，人人有线报，为此我将在此放出我自研的超级京东扫店工具，江湖人送爱称”奶scan“。祝大家在薅毛路上前程似锦，日进万豆。  
-
-### 教程  
-1.下载本仓库所有文件到本地目录  
-2.每行一条，将京东ck填到'JD_COOKIE.txt'里面。最少也要一条ck，未验证过期ck是否有效，建议使用有效ck，格式`pt_key=xxx;pt_pin=xxx;`  
-3.打开，按照注释的说明编辑'scan_config.py'，然后保存  
-4.运行'scan_main.exe'，开始扫线报  
-
-### Congratulations！ 
-现在你已经完全掌握**奶scan**的使用方法啦，快去发大财吧！  
+京东玩完啦  
 
 ## ENGLISH  
-### Preface  
-Hello, my name is 萌大奶（https://t.me/doubi_c ）, very nice to meet you.  
-I have a dream, that every man could have his/her scan and spy. So that I'm going to introduce you my self-investigated 京东(Jd.Com, Inc) super shop activity scan, which was given a lovely name "Nai_scan".    
-I hope every you can achieve a promising future in the bussiness of WOOL-HUNTING, and get more than 10,000 JD beans per day.  
-
-### Tutorial  
-1.Download all files in this repo  
-2.Fill one JD cookie per line into 'JD_COOKIE.txt', at least one piece of cookie is needed. Don't know whether out-dated cookie will work, fresh cookie is suggested, format be like `pt_key=xxx;pt_pin=xxx;`  
-3.Open, edit 'scan_config.py' following its comments, and save  
-4.Run 'scan_main.exe' to scan shop activity    
-
-### 祝贺！  
-Now you have a complete grasp of the utilizing technique of **Nai_scan**, now hurry up making fortunes!  
+JD game over  
 
 ## 【NAI_SCAN】免责声明
 
@@ -90,4 +67,5 @@ By using this project, you indicate your acceptance of and agreement to abide by
 
 ### 7. Other Terms
 This disclaimer constitutes the entire agreement between you and the authors regarding this project and supersedes all prior or contemporaneous oral or written agreements. The authors reserve the right to modify this disclaimer at any time as needed.
+
 
